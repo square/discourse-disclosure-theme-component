@@ -1,0 +1,7 @@
+category_ids:
+  default: 1|
+  type: list
+disclosure_text:
+  default: By submitting a post, you agree to the terms and conditions of this forum.
+  description:
+    en: The disclosure that will be shown in the composer interface for selected categories.
